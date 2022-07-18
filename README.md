@@ -9,4 +9,8 @@ A responsive landing page of a travel website for North East tourism
 
 
 ![NE travels](https://user-images.githubusercontent.com/99405820/179449655-85d66ebe-bbc1-4faf-9a04-8b36a32ff21f.png)
-![NE](https://user-images.githubusercontent.com/99405820/179449975-015cf3a7-13af-4a44-8f09-d01a9fea284c.png)
+![8](https://user-images.githubusercontent.com/99405820/179544507-d59ca024-b6d9-4ccf-80db-511382ffaa10.png)
+![9](https://user-images.githubusercontent.com/99405820/179544613-c9f50f6d-3d92-440f-b9b4-86e74f6ecfdd.png)
+![2](https://user-images.githubusercontent.com/99405820/179544715-d402803e-0270-4e96-b6ad-bbdc1531d133.png)
+![4](https://user-images.githubusercontent.com/99405820/179544831-e8ec0750-8621-4187-bddd-34b18d09ed8d.png)
+
